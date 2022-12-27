@@ -1,4 +1,4 @@
-<!-- Code by Brave Coder - https://youtube.com/BraveCoder -->
+
 
 <?php
     //Import PHPMailer classes into the global namespace
